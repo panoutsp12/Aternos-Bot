@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "oi_malakes.aternos.me",
+    "ip": "swampfish.aternos.host:58029",
     "port": 58029,
     "version": "",
     "try-creative": false
